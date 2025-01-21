@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(170, 209, 196);
+    padding: 2vh;
+    border: 0.5vh solid;
+    border-radius: 5px;
+}
+.std{
+    display: flex;
+    justify-content: center;
+    
+}
+H1{
+   margin-left: 50vh;
+}
+.fr{
+    margin-left: 50vh;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+.amp{
+    margin-left: 10vh;
+    font-size: 15px;
+}
+table , th , tr{
+    padding: 2vh;
+    text-align: center;
+}
+.ad{
+    display: flex;
+}
+.id{
+    justify-content: space-around;
+    background-color: rgb(206, 229, 229);
+    padding: 10vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    
+}
+.se{
+    height: 30px;
+    width:  30px;
+    margin-top: 1vh;
+    margin-left: 3vh;
+}
